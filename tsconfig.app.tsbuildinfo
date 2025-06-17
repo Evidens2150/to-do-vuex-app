@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/api/index.ts","./src/store/index.ts","./src/types/index.ts","./src/app.vue","./src/components/loadercomponent.vue","./src/components/todolist.vue"],"version":"5.8.3"}
